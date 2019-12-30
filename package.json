@@ -16,6 +16,10 @@
     "nerd-fonts"
   ],
   "license": "MIT",
+  "repository": {
+    "url": "git@github.com:patreeceeo/node-nf-icons.git",
+    "type": "git"
+  },
   "devDependencies": {
     "typescript": "^3.7.4"
   }
