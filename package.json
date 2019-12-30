@@ -1,0 +1,22 @@
+{
+  "name": "nf-icons",
+  "version": "0.0.1",
+  "description": "Make it easier to use Nerd Fonts icons in JavaScript",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "node dist/test.js | less",
+    "prepublish": "tsc"
+  },
+  "author": "Patrick",
+  "keywords": [
+    "font",
+    "fonts",
+    "icons",
+    "nerd-fonts"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.7.4"
+  }
+}
